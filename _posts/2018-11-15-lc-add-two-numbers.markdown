@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Markdown Syntax"
-date:   2018-11-17 21:39:11
-categories: Others
+title:  "LeetCode - Add Two Numbers"
+date:   2018-11-15 21:39:11
+categories: LeetCode 
 ---
 This post is markdown syntax.
 ## Font
